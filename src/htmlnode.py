@@ -20,5 +20,3 @@ class HTMLNode():
         return self.tag
 
     
-
-    
